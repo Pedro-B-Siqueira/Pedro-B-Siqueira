@@ -45,6 +45,6 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 
 <hr>
 
-![Snake animation](https://github.com/Pedro-B-Siqueira/Pedro-B-Siqueira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pedro-B-Siqueira/Pedro-B-Siqueira/blob/output/github-contribution-grid-snake.gif)
 
 
