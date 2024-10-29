@@ -38,26 +38,3 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 
 <hr>
 
-![snake animation](https://github.com/Pedro-B-Siqueira/Pedro-B-Siqueira/blob/output/github-contribution-grid-snake2.svg)
-
-<hr>
-
-
-
-
-          
-          
-
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
