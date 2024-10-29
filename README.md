@@ -1,4 +1,4 @@
-##<h1> Olá, eu sou Pedro! 👋 </h1>
+<h1 style="text-align: center;"> Olá, eu sou Pedro! 👋 </h1>
 ## Seja bem-vindo ao meu perfil aqui no github. 😁
 <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="150" height="150"/>
 <hr>
