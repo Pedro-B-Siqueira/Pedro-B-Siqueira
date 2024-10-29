@@ -3,7 +3,7 @@
 
 <h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
 Seja bem-vindo ao meu perfil aqui no github. 😁
-<div>
+<div align="center>
 <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170"/>
 <a href="https://github.com/Pedro-B-Siqueira">
 <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=7&theme=dracula"/>
