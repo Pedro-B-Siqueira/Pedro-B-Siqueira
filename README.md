@@ -38,7 +38,9 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 
 <hr>
 
+![Snake animation](https://github.com/seu-usuário-aqui/Pedro-B-Siqueira/blob/output/github-contribution-grid-snake.svg)
 
+<hr>
 
 
 
