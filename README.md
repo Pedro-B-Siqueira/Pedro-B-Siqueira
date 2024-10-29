@@ -37,6 +37,7 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 </div>
 
 <hr>
-
-<img loading="lazy" src="https://i.imgur.com/IVasqxx.gif" width="250" height="250" align="center"/>
+<p align="center">
+  <img loading="lazy" src="https://i.imgur.com/IVasqxx.gif" width="250" height="250">
+</p>
 
