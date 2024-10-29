@@ -1,6 +1,6 @@
 ## Olá, eu sou Pedro! 👋
 ## Seja bem-vindo ao meu perfil aqui no github. 😁
-<img loading="lazy" src="https://imgur.com/kuSLb9x" width="150" height="150"/>
+<img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="150" height="150"/>
 <hr>
 
 
