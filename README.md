@@ -38,3 +38,5 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 
 <hr>
 
+<img loading="lazy" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F1d11s820dgm91.gif&rdt=35340" width="170" height="170"/>
+
