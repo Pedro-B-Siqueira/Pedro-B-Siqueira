@@ -1,6 +1,3 @@
-<!-- Referências -->
-
-
 <h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
 Seja bem-vindo ao meu perfil aqui no github. 😁
 <p align="center">
