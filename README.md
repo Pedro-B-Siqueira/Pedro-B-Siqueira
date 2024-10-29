@@ -3,12 +3,12 @@
 
 <h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
 Seja bem-vindo ao meu perfil aqui no github. 😁
-<div>
-  <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170" align="center"/>
+<p align="center">
+  <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170"/>
   <a href="https://github.com/Pedro-B-Siqueira">
-  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=7&theme=dracula" align="center"/>
-  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="center"/>
-</div>
+  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
 <hr>
 
 <h3>👨‍💻 Linguagens e Frameworks </h3>
