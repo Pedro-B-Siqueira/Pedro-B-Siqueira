@@ -1,7 +1,7 @@
 <!-- Referências -->
 
 
-<h1 style="text-align: center;"> Olá, eu sou Pedro! 👋 </h1>
+<h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
 Seja bem-vindo ao meu perfil aqui no github. 😁
 <div>
 <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170"/>
