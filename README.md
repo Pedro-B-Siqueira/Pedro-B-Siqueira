@@ -43,3 +43,8 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
   <img loading="lazy" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" width="310" height="300">
 </p>
 
+<hr>
+
+![Snake animation](https://github.com/Pedro-B-Siqueira/Pedro-B-Siqueira/blob/output/github-contribution-grid-snake.svg)
+
+
