@@ -11,7 +11,7 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 <h3>👨‍💻 Linguagens e Frameworks </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,django,go"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,django,go,java"/>
   </a>
 </p>
 
@@ -20,7 +20,7 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 <h3>⚙ Ferramentas e IDEs </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linkedin,github,git"/>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linkedin,github,git,figma"/>
   </a>
 </p>
 
