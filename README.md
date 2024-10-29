@@ -6,14 +6,21 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="150" height="150"/>
 <hr>
 
-<h3>👨‍💻 Linguagens e Tecnologias </h3>
+<h3>👨‍💻 Linguagens e Frameworks </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html, css, js, python, react, java, django"/>
   </a>
 </p>
 
-</div>
+<hr>
+
+<h3>👨‍💻 Ferramentas e IDEs </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode, pycharm, mysql, sqllite, linkedin, github, git"/>
+  </a>
+</p>
 
 <hr>
 
