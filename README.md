@@ -38,6 +38,6 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 
 <hr>
 <p align="center">
-  <img loading="lazy" src="https://i.imgur.com/IVasqxx.gif" width="250" height="250">
+  <img loading="lazy" src="https://i.imgur.com/IVasqxx.gif" width="300" height="320">
 </p>
 
