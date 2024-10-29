@@ -6,8 +6,8 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 <div>
 <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="150" height="150"/>
 <a href="https://github.com/Pedro-B-Siqueira">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
 
