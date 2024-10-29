@@ -1,9 +1,11 @@
-## Hi there 👋
+## Olá, eu sou Pedro! 👋
+## Seja bem-vindo ao meu perfil aqui no github. 😁
+<img loading="lazy" src="https://imgur.com/a/NIz4E8e" width="150" height="150"/>
+<hr>
+
+
 
 <!--
-**Pedro-B-Siqueira/Pedro-B-Siqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
