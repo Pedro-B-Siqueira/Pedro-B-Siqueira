@@ -19,8 +19,11 @@
 <div align="center" style="display: inline">
   <a href="https://github.com/Pedro-B-Siqueira">
   <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170"/>
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=dracula"/>
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=dracula"/>
+  <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img media="(prefers-color-scheme: light)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=buefy"/>
+  <img media="(prefers-color-scheme: light)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   </a>
 </p>
     
