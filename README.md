@@ -9,9 +9,9 @@
     alt="Capa de Perfil"
     src="Imagens/gitbanner.png"
   />
+  <h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
 </div>
 
-<h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
 Seja bem-vindo ao meu perfil aqui no github. 😁
 <p align="center">
   <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170"/>
