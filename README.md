@@ -7,7 +7,7 @@
 <div align="center">
   <img
     alt="Capa de Perfil"
-    src="Images/gitbanner.png"
+    src="Imagens/gitbanner.png"
   />
 </div>
 
