@@ -17,7 +17,7 @@
   Seja bem-vindo ao meu perfil aqui no github. 😁
 </div>
 <div align="center" style="display: inline">
-  <a href="https://github.com/Pedro-B-Siqueira">
+  <a style="text-decoration: none" href="https://github.com/Pedro-B-Siqueira">
   <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170"/>
 
   <a href="https://github.com/itaditya#gh-dark-mode-only">
