@@ -13,7 +13,7 @@
     alt="Capa de Perfil"
     src="Imagens/gitbanner.png"
   />
-  ## <h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
+  ## <h1 style="text-align: center;"> Olá, eu me chamo Pedro! <img width="20px" alt="Waving Emoji" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1>
   Seja bem-vindo ao meu perfil aqui no github. 😁
 </div>
 <div align="center" style="display: inline">
