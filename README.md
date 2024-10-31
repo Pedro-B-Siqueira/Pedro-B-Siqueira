@@ -17,9 +17,7 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 
 <h3>⚙ Ferramentas e IDEs </h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,linkedin,github,git,figma"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,linkedin,github,git,figma,,vscode,pycharm"/>
 </p>
 
 <hr>
