@@ -1,3 +1,7 @@
+<!--
+  Credit to https://github.com/tthn0/tthn0, https://github.com/blueIsaac1/blueIsaac1 and https://github.com/RenanM1214/RenanM1214 for README idea.
+-->
+
 <img
   width="100%"
   alt="Gif Arco-Íris"
