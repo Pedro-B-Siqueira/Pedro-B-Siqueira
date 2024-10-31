@@ -31,7 +31,7 @@
 
 <hr>
 
-## <h3>⚙ Ferramentas e IDEs </h3>
+## <h3>⚙ Ferramentas e IDEs </h3> <h3>👨‍💻 Linguagens e Frameworks </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,github,git,figma,,vscode,pycharm,mysql,sqlite"/>
 </p>
