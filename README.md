@@ -13,7 +13,7 @@
     alt="Capa de Perfil"
     src="Imagens/gitbanner.png"
   />
-  <h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
+  ## <h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
   Seja bem-vindo ao meu perfil aqui no github. 😁
 </div>
 <div align="center" style="display: inline">
@@ -24,21 +24,21 @@
 </p>
 <hr>
 
-<h3>👨‍💻 Linguagens e Frameworks </h3>
+## <h3>👨‍💻 Linguagens e Frameworks </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,go,java,,django"/>
 </p>
 
 <hr>
 
-<h3>⚙ Ferramentas e IDEs </h3>
+## <h3>⚙ Ferramentas e IDEs </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,github,git,figma,,vscode,pycharm,mysql,sqlite"/>
 </p>
 
 <hr>
 
-<h3>📧 Entre em contato! </h3>
+## <h3>📧 Entre em contato! </h3>
 <div align="center">
   <a href="https://instagram.com/pedro_l1ndo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrosiqueirarp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
