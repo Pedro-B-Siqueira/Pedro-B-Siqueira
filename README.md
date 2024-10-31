@@ -20,15 +20,16 @@
   <a href="https://github.com/Pedro-B-Siqueira">
   <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170"/>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=dracula">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <a href="https://github.com/itaditya#gh-dark-mode-only">
+    <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=dracula"/>
+    <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=buefy">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true">
+  <a href="https://github.com/itaditya#gh-light-mode-only">
+    <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=buefy"/>
+    <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  </a>
   
-  <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=dracula"/>
-  <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
   </a>
 </p>
     
