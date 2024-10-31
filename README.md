@@ -25,7 +25,7 @@
     
 <hr>
 
-## 👨‍💻 Linguagens e Frameworks
+👨‍💻 Linguagens e Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,go,java,,django"/>
 </p>
