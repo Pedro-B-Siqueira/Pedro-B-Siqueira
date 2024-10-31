@@ -1,13 +1,13 @@
 <img
   width="100%"
-  alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif"
+  alt="Gif Arco-Íris"
+  src="Imagens/Rainbow.gif"
 />
 
 <div align="center">
   <img
-    alt="Profile Picture"
-    src="Images/Miscellaneous/Hero.png"
+    alt="Capa de Perfil"
+    src="Images/gitbanner.png"
   />
 </div>
 
