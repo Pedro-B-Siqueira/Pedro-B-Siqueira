@@ -10,9 +10,7 @@ Seja bem-vindo ao meu perfil aqui no github. 😁
 
 <h3>👨‍💻 Linguagens e Frameworks </h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,go,java,,django"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,go,java,,django"/>
 </p>
 
 <hr>
