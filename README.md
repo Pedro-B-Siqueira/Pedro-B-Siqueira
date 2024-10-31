@@ -67,11 +67,13 @@
 <picture>
 
   <a href="https://github.com/itaditya#gh-dark-mode-only">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-B-Siqueira/Pedro-B-Siqueira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-B-Siqueira/Pedro-B-Siqueira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-B-Siqueira/Pedro-B-Siqueira/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-B-Siqueira/Pedro-B-Siqueira/output/github-contribution-grid-snake-dark.svg">
   </a>
   <a href="https://github.com/itaditya#gh-light-mode-only">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-B-Siqueira/Pedro-B-Siqueira/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-B-Siqueira/Pedro-B-Siqueira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-B-Siqueira/Pedro-B-Siqueira/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-B-Siqueira/Pedro-B-Siqueira/output/github-contribution-grid-snake.svg">
   </a>
  
