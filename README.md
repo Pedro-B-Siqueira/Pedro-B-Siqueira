@@ -22,16 +22,17 @@
   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=dracula"/>
   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
+    
 <hr>
 
-## <h3>👨‍💻 Linguagens e Frameworks </h3>
+## <h3>👨‍💻 Pe </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,go,java,,django"/>
 </p>
 
 <hr>
 
-## <h3>⚙ Ferramentas e IDEs </h3> <h3>👨‍💻 Linguagens e Frameworks </h3>
+## <h3>⚙ Ferramentas e IDEs </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,github,git,figma,,vscode,pycharm,mysql,sqlite"/>
 </p>
