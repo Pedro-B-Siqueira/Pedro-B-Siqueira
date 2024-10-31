@@ -1,3 +1,16 @@
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Images/Miscellaneous/Rainbow.gif"
+/>
+
+<div align="center">
+  <img
+    alt="Profile Picture"
+    src="Images/Miscellaneous/Hero.png"
+  />
+</div>
+
 <h1 style="text-align: center;"> Olá, eu me chamo Pedro! 👋 </h1>
 Seja bem-vindo ao meu perfil aqui no github. 😁
 <p align="center">
