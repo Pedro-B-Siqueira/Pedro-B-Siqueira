@@ -20,7 +20,7 @@
   <a style="text-decoration: none" href="https://github.com/Pedro-B-Siqueira">
   <img loading="lazy" src="https://i.imgur.com/JXjv9Et.png" width="170" height="170"/>
 
-  <a style="text-decoration: none" href="https://github.com/itaditya#gh-dark-mode-only">
+  <a style="text-decoration: none" href="https://github.com/Pedro-B-Siqueira#gh-dark-mode-only">
     <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=dracula"/>
     <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
