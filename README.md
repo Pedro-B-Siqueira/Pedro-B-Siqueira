@@ -22,7 +22,7 @@
 
   <a style="text-decoration: none" href="https://github.com/Pedro-B-Siqueira#gh-dark-mode-only">
     <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Siqueira&layout=compact&langs_count=8&theme=dracula"/>
-    <img media="(prefers-color-scheme: dark)" loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   </a>
 
   <a style="text-decoration: none" href="https://github.com/itaditya#gh-light-mode-only">
@@ -49,7 +49,8 @@
 
 <hr>
 
-## <h3>📧 Entre em contato! </h3>
+## 
+<h3>📧 Entre em contato! </h3>
 <div align="center">
   <a href="https://instagram.com/pedro_l1ndo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrosiqueirarp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
