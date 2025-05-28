@@ -37,7 +37,7 @@
 
 ## <h3>👨‍💻 Linguagens e Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,go,ts,,node,react,python,django,angular,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,go,ts,,nodejs,react,python,django,angular,nextjs"/>
 </p>
 
 <hr>
