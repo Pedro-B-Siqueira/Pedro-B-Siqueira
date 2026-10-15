@@ -45,7 +45,7 @@
 ## <h3>⚙ Ferramentas, IDEs e Tecnologias</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,github,git,figma,postman,graphql,docker,,vscode,pycharm,mysql,sqlite,mongodb,postgres,npm"/><br>
-  <img src="https://skillicons.dev/icons?i=linux,,supabase"/>
+  <img src="https://skillicons.dev/icons?i=linux,supabase"/><img src="https://skills.syvixor.com/api/icons?i=claudeai"/>
 </p>
 
 <hr>
